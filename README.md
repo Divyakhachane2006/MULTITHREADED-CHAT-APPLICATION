@@ -27,6 +27,7 @@
       JAVA MULTITHREADING API
       
   OUTPUT: 
+          <img width="1290" height="568" alt="Image" src="https://[github](url).com/user-attachments/assets/29fe1673-2e73-48a7-846e-70084de04407" />
 
 # DELIVERABLE: A FUNCTIONAL CHAT APPLICATION WITH A SERVER AND MULTIPLE CLIENTS COMMUNICATING IN REAL TIME.
 
